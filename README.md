@@ -1,7 +1,7 @@
 
 [ReadMe (1).md](https://github.com/user-attachments/files/24606450/ReadMe.1.md)
 # 💫 About Me:
-Hi there, I'm Damien Martinez 👋<br>I'm a Cybersecurity Student at UTD with a strong interest in IT systems, cybersecurity and cloud infrastructure.<br><br>
+Hi there, I'm Damien Martinez 👋<br>I'm a Cybersecurity Student with a strong interest in IT systems, cybersecurity and cloud infrastructure.<br><br>
 
 
 ## 🌐 Socials:
