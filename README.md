@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hi there, I'm Damien Martinez 👋<br>I'm a Cybersecurity Student with a strong interest in IT systems, cybersecurity and cloud infrastructure.<br><br>
-
+Hi there, I'm Damien Martinez 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damien-martinez-24b2b7264) 
+
 
 # 💻 Tech Stack:
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
